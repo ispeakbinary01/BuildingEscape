@@ -1,0 +1,3 @@
+C:\Users\Leaf\Documents\repos\BuildingEscape\BuildingEscape02\Source\BuildingEscape02\BuildingEscape02.Build.cs
+C:\Users\Leaf\Documents\repos\BuildingEscape\BuildingEscape02\Source\BuildingEscape02.Target.cs
+C:\Users\Leaf\Documents\repos\BuildingEscape\BuildingEscape02\Source\BuildingEscape02Editor.Target.cs
