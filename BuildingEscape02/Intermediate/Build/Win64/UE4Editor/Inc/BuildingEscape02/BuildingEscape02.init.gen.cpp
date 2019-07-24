@@ -11,17 +11,21 @@
 #endif
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeBuildingEscape02_init() {}
+	BUILDINGESCAPE02_API UFunction* Z_Construct_UDelegateFunction_BuildingEscape02_OnOpenRequest__DelegateSignature();
 	UPackage* Z_Construct_UPackage__Script_BuildingEscape02()
 	{
 		static UPackage* ReturnPackage = nullptr;
 		if (!ReturnPackage)
 		{
+			static UObject* (*const SingletonFuncArray[])() = {
+				(UObject* (*)())Z_Construct_UDelegateFunction_BuildingEscape02_OnOpenRequest__DelegateSignature,
+			};
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/BuildingEscape02",
 				PKG_CompiledIn | 0x00000000,
-				0xD696EE0C,
-				0x00280C3E,
-				nullptr, 0,
+				0x9745AE9C,
+				0x2DBE0325,
+				SingletonFuncArray, ARRAY_COUNT(SingletonFuncArray),
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

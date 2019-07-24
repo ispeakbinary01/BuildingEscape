@@ -48,4 +48,26 @@
       <Filter>Source\BuildingEscape02</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\BuildingEscape02\FloorPositionReport.h">
+      <Filter>Source\BuildingEscape02</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BuildingEscape02\OpenDoor.h">
+      <Filter>Source\BuildingEscape02</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BuildingEscape02\Grabber.h">
+      <Filter>Source\BuildingEscape02</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\BuildingEscape02\FloorPositionReport.cpp">
+      <Filter>Source\BuildingEscape02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BuildingEscape02\OpenDoor.cpp">
+      <Filter>Source\BuildingEscape02</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BuildingEscape02\Grabber.cpp">
+      <Filter>Source\BuildingEscape02</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

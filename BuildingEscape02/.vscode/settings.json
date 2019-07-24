@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/Leaf/Documents/repos/BuildingEscape/BuildingEscape02/.vs": true,
+		"C:/Users/Leaf/Documents/repos/BuildingEscape/BuildingEscape02/.vscode": true,
+		"C:/Users/Leaf/Documents/repos/BuildingEscape/BuildingEscape02/Content": true,
+		"C:/Users/Leaf/Documents/repos/BuildingEscape/BuildingEscape02/Intermediate": true,
+		"C:/Users/Leaf/Documents/repos/BuildingEscape/BuildingEscape02/Saved": true
+	}
+}

@@ -1,0 +1,14 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Leaf\Documents\repos\BuildingEscape).
+  Creating makefile for hot reloading BuildingEscape02Editor (source directory changed)
+  Compiling game modules for hot reload
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 8 processes...
+    [1/3] Grabber.cpp
+C:\Users\Leaf\Documents\repos\BuildingEscape\BuildingEscape02\Source\BuildingEscape02\Grabber.cpp(104): warning C4996: 'FCollisionQueryParams::FCollisionQueryParams': FCollisionQueryParams, to avoid ambiguity, please use other constructor and explicitly provide an FName parameter (not just a string literal) as the first parameter Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.21\engine\source\runtime\engine\public\CollisionQueryParams.h(135): note: see declaration of 'FCollisionQueryParams::FCollisionQueryParams'
+    [2/3] UE4Editor-BuildingEscape02-2988.lib
+       Creating library C:\Users\Leaf\Documents\repos\BuildingEscape\BuildingEscape02\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape02\UE4Editor-BuildingEscape02-2988.lib and object C:\Users\Leaf\Documents\repos\BuildingEscape\BuildingEscape02\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape02\UE4Editor-BuildingEscape02-2988.exp
+    [3/3] UE4Editor-BuildingEscape02-2988.dll
+       Creating library C:\Users\Leaf\Documents\repos\BuildingEscape\BuildingEscape02\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape02\UE4Editor-BuildingEscape02-2988.suppressed.lib and object C:\Users\Leaf\Documents\repos\BuildingEscape\BuildingEscape02\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape02\UE4Editor-BuildingEscape02-2988.suppressed.exp
+  Deploying BuildingEscape02Editor Win64 Development...
+  Total build time: 55.78 seconds (Parallel executor: 5.91 seconds)
